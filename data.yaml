@@ -1,0 +1,9 @@
+# Class IDs are project-specific and created by tools/prepare_bdd100k.py
+path: /content/edgeguard_data
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: person
+  1: car
+  2: truck

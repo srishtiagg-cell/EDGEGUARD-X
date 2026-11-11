@@ -1,0 +1,5 @@
+﻿# Local dashboard account store and audit records
+EDGEGUARD-X-Dashboard/users.json
+EDGEGUARD-X-Dashboard/user_access_log.csv
+EDGEGUARD-X-Dashboard/activity_log.csv
+EDGEGUARD-X-Dashboard/.venv/__pycache__/

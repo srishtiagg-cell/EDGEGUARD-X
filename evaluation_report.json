@@ -1,0 +1,35 @@
+{
+  "precision": 0.3769529122054958,
+  "recall": 0.37065987302608877,
+  "map50": 0.35968082781848154,
+  "map50_95": 0.1924721969451181,
+  "per_class": {
+    "person": {
+      "precision": 0.5719714893972698,
+      "recall": 0.43209876543209874,
+      "map50": 0.44215134989852184,
+      "map50_95": 0.19598031968849605
+    },
+    "car": {
+      "precision": 0.38841213079077874,
+      "recall": 0.58203125,
+      "map50": 0.5317223660371094,
+      "map50_95": 0.32912670882335626
+    },
+    "truck": {
+      "precision": 0.17047511642843888,
+      "recall": 0.09784960364616761,
+      "map50": 0.10516876751981347,
+      "map50_95": 0.05230956232350205
+    }
+  },
+  "latency_ms_per_image": 24.26024937036615,
+  "measured_fps": 41.219691716009244,
+  "hardware": "Tesla T4",
+  "image_size": 640,
+  "epochs_configured": 30,
+  "training_seconds": 74.75735402107239,
+  "train_images": 106,
+  "val_images": 27,
+  "checkpoint": "/content/edgeguard_runs/edgeguard/weights/best.pt"
+}
